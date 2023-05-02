@@ -9,7 +9,6 @@
 
 .action::before {
     content: "";
-    color: yellow;
     background-color: #748DA6;
     width: 10px;
     height: 10px;
